@@ -1,0 +1,4 @@
+﻿  fibonacci.cpp
+c:\study\programs\dynamical-programming\fibonacci_numbers\fibonacci_numbers\fibonacci.cpp(28): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\study\programs\dynamical-programming\fibonacci_numbers\fibonacci_numbers\fibonacci.cpp(31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  fibonacci_numbers.vcxproj -> C:\Study\Programs\Dynamical-Programming\fibonacci_numbers\x64\Debug\fibonacci_numbers.exe
