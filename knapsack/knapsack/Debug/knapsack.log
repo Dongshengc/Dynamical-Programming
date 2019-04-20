@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\study\programs\dynamical-programming\knapsack\knapsack\main.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\study\programs\dynamical-programming\knapsack\knapsack\main.cpp(43): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  knapsack.vcxproj -> C:\Study\Programs\Dynamical-Programming\knapsack\Debug\knapsack.exe
